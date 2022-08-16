@@ -17,7 +17,7 @@ export default {
   'pages.login.phoneLogin.getVerificationCode': 'Dapatkan kode',
   'pages.getCaptchaSecondText': 'detik tersisa',
   'pages.login.rememberMe': 'Ingat saya',
-  'pages.login.forgotPassword': 'Lupa Kata Sandi?',
+  'pages.login.forgotpassword': 'Lupa Kata Sandi?',
   'pages.login.submit': 'Masuk',
   'pages.login.loginWith': 'Masuk dengan :',
   'pages.login.registerAccount': 'Daftar Akun',

@@ -19,7 +19,7 @@ export default {
   'pages.login.phoneLogin.getVerificationCode': 'কোড পান',
   'pages.getCaptchaSecondText': 'সেকেন্ড',
   'pages.login.rememberMe': 'আমাকে মনে রাখুন',
-  'pages.login.forgotPassword': 'পাসওয়ার্ড ভুলে গেছেন?',
+  'pages.login.forgotpassword': 'পাসওয়ার্ড ভুলে গেছেন?',
   'pages.login.submit': 'প্রবেশ করুন',
   'pages.login.loginWith': 'লগইন করতে পারেন:',
   'pages.login.registerAccount': 'অ্যাকাউন্ট নিবন্ধন করুন',

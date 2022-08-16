@@ -17,7 +17,7 @@ export default {
   'pages.login.phoneLogin.getVerificationCode': '確認コードを取得',
   'pages.getCaptchaSecondText': '秒',
   'pages.login.rememberMe': 'Remember me',
-  'pages.login.forgotPassword': 'パスワードをお忘れですか？',
+  'pages.login.forgotpassword': 'パスワードをお忘れですか？',
   'pages.login.submit': 'ログイン',
   'pages.login.loginWith': 'その他のログイン方法：',
   'pages.login.registerAccount': 'アカウント登録',

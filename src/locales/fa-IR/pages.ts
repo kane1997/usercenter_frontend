@@ -16,7 +16,7 @@ export default {
   'pages.login.phoneLogin.getVerificationCode': 'دریافت کد',
   'pages.getCaptchaSecondText': 'ثانیه',
   'pages.login.rememberMe': 'مرا به خاطر بسپار',
-  'pages.login.forgotPassword': 'رمز عبور را فراموش کرده اید ?',
+  'pages.login.forgotpassword': 'رمز عبور را فراموش کرده اید ?',
   'pages.login.submit': 'ارسال',
   'pages.login.loginWith': 'وارد شوید با :',
   'pages.login.registerAccount': 'ثبت نام',

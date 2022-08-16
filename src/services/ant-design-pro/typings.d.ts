@@ -61,12 +61,14 @@ declare namespace API {
     status?: string;
   };
 
-  type LoginParams = {
+  type NewType = {
     username?: string;
-    password?: string;
+    userpassword?: string;
     autoLogin?: boolean;
     type?: string;
   };
+
+  type LoginParams = NewType;
 
   type ErrorResponse = {
     /** 业务约定的错误码 */
