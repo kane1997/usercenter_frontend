@@ -51,7 +51,7 @@ mysql
 
 ### 2. 初始化Ant Design pro脚手架
 
-![Untitled 1](usercenter_frontend/Untitled 1.png)
+![Untitled](/usercenter_frontend/Untitled 1.png)
 
 新建一个空的文件夹，通过cmd命令打开，我们也可以直接cd到目录下
 
