@@ -51,7 +51,7 @@ mysql
 
 ### 2. 初始化Ant Design pro脚手架
 
-![Untitled](https://github.com/kane1997/usercenter_frontend/blob/0f834d2380f8180b1f429d327da4a0552f7b251a/Untitled%201.png)
+![Untitled]([https://github.com/kane1997/usercenter_frontend/blob/0f834d2380f8180b1f429d327da4a0552f7b251a/Untitled%201.png](https://github.com/kane1997/usercenter_frontend/blob/dee6cf16dc1bc96626b0d044620ffd342faa149f/Untitled.png))
 
 新建一个空的文件夹，通过cmd命令打开，我们也可以直接cd到目录下
 
@@ -76,7 +76,7 @@ yarn add @umijs/preset-ui -D
 
 1. 
 
-![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled%201.png)
+![Untitled](https://github.com/kane1997/usercenter_frontend/blob/dee6cf16dc1bc96626b0d044620ffd342faa149f/Untitled%201.png)
 
 2.使用npm命令
 
@@ -88,7 +88,7 @@ npm start cross-env UMI_ENV=dev umi dev
 
 ### UMI模版添加
 
-![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled%202.png)
+![Untitled](https://github.com/kane1997/usercenter_frontend/blob/dee6cf16dc1bc96626b0d044620ffd342faa149f/Untitled%202.png)
 
 ### 项目瘦身
 
@@ -134,7 +134,7 @@ npm start cross-env UMI_ENV=dev umi dev
 
 1. 选择依赖
 
-![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled%203.png)
+![Untitled](https://github.com/kane1997/usercenter_frontend/blob/dee6cf16dc1bc96626b0d044620ffd342faa149f/Untitled%203.png)
 
 ### 链接本地数据库
 
