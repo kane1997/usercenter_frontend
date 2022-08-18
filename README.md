@@ -51,7 +51,7 @@ mysql
 
 ### 2. 初始化Ant Design pro脚手架
 
-![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled.png)
+![Untitled](Untitled 1.png)
 
 新建一个空的文件夹，通过cmd命令打开，我们也可以直接cd到目录下
 
