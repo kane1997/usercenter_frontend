@@ -51,7 +51,7 @@ mysql
 
 ### 2. 初始化Ant Design pro脚手架
 
-![Untitled]([https://github.com/kane1997/usercenter_frontend/blob/0f834d2380f8180b1f429d327da4a0552f7b251a/Untitled%201.png](https://github.com/kane1997/usercenter_frontend/blob/dee6cf16dc1bc96626b0d044620ffd342faa149f/Untitled.png))
+![Untitled]((https://github.com/kane1997/usercenter_frontend/blob/dee6cf16dc1bc96626b0d044620ffd342faa149f/Untitled.png))
 
 新建一个空的文件夹，通过cmd命令打开，我们也可以直接cd到目录下
 
