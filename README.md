@@ -70,7 +70,11 @@ yarn add @umijs/preset-ui -D
 
 启动项目
 
-1.  2.使用 npm 命令
+1.
+
+![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled%201.png)
+
+2.使用 npm 命令
 
 ```bash
 npm start cross-env UMI_ENV=dev umi dev
@@ -79,6 +83,8 @@ npm start cross-env UMI_ENV=dev umi dev
 两种启动命令的区别，start：dev 比 start 多了一个 MOCK=none，这是把模拟的数据关闭了，这里我们还没有初始化后端，所以使用 dev 去登录，会登录失败
 
 ### UMI 模版添加
+
+![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled%202.png)
 
 ### 项目瘦身
 
@@ -122,6 +128,8 @@ npm start cross-env UMI_ENV=dev umi dev
 ### 直接在 IntellJ 里面导入
 
 1. 选择依赖
+
+![Untitled](%E7%94%A8%E6%88%B7%E4%B8%AD%E5%BF%83%EF%BC%88%E4%B8%8A%EF%BC%89%20e1df624484b24498931602cf9358b320/Untitled%203.png)
 
 ### 链接本地数据库
 
